@@ -1,5 +1,3 @@
 # Hello World
 
-## This is my first repository
-
-- this is my second commit
+## This is My First Repository
